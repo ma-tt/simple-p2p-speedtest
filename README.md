@@ -27,5 +27,5 @@ None. It's a simple HTML file bro.
 
 ## License
 
-Classy PHP Directory is distributed under the terms of the
+Simple p2p SpeedTest is distributed under the terms of the
 [MIT License](http://www.opensource.org/licenses/mit-license.php).
