@@ -1,7 +1,5 @@
 # Simple p2p SpeedTest
 
-A simple web based p2p speed test.
-
 ## Introduction
 
 A simple web based p2p speed test powered by WebTorrent and contained in a single HTML file.
