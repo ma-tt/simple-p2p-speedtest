@@ -24,9 +24,9 @@ None. It's a simple HTML file bro.
 
 ## Thanks
 
-[Diego Rodríguez Baquero](https://diegorbaquero.com/)
+[Diego Rodriguez Baquero](https://diegorbaquero.com/)
 
 ## License
 
-Simple p2p SpeedTest is distributed under the terms of the
+Simple P2P SpeedTest is distributed under the terms of the
 [MIT License](http://www.opensource.org/licenses/mit-license.php).
