@@ -1,13 +1,14 @@
-# Simple p2p SpeedTest
+# Simple P2P SpeedTest
 
 ## Introduction
 
-A simple web based p2p speed test powered by WebTorrent and contained in a single HTML file.
+A simple web based P2P speed test powered by WebTorrent and contained in a single HTML file.
 
 ## Features
 
 - Extremely simple installation
 - Displays network speed in bytes and bits
+- Automatically determines max speed in 30 seconds or less
 - Super easy to use, runs automatically
 
 Powered by [WebTorrent](https://github.com/feross/webtorrent/)
