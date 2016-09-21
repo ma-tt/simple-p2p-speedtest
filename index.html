@@ -2,30 +2,27 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="PeerFast is the first P2P Internet Speed Test">
-    <meta name="keywords" content="speedtest,speed,test,internet,fast.com,speedtest.net,p2p">
+    <meta name="description" content="Simple P2P SpeedTest">
+    <meta name="keywords" content="speedtest, speed, test, internet, speedtest.net, p2p">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/g/normalize@3.0,skeleton@2.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/fontawesome/4.6/css/font-awesome.min.css">
-    <title>PeerFast - P2P Fast.com Clone</title>
+    <title>Simple P2P SpeedTest</title>
 </head>
 <body style="text-align: center">
 <header style="margin: 20px 0 40px">
-    <h1 style="margin-bottom: -10px">PeerFast</h1>
-    <small>P2P Fast.com Clone</small>
+    <h1 style="margin-bottom: -10px">Simple P2P SpeedTest</h1>
 </header>
 
-<h2 id="starting">Test is starting</h2>
+<h2 id="starting">Test is starting...</h2>
 <div id="counters" style="visibility: hidden; display: none">
-    <h3>Speed in bytes: <small id="speedBytes"></small></h3>
-    <h3>Speed in bits: <small id="speedBits"></small></h3>
-    <h4 id="reload">Please wait while the test finishes</h4>
+
+    <h3>Your speed:  <b><small id="speedBytes"></small></b>  (<small id="speedBits"></small>)</h3>
+    <h4 id="reload">Please wait while the test finishes...</h4>
+
 </div>
 
 <footer style="margin-top: 50px">
-    <a class="button" href="https://github.com/DiegoRBaquero/PeerFast/issues" target="_blank"><i class="fa fa-github"></i> Suggest a feature / Report a bug <i class="fa fa-comment"></i></a><br>
-    <b>PeerFast is an Open-Source project by <a href="https://diegorbaquero.com" target="_blank">DiegoRBaquero</a></b><br>
-    Powered by <a href="https://github.com/feross/webtorrent" target="_blank">WebTorrent</a><br>
-    <small>Hosted by <a href="https://m.do.co/c/0b25a910e6e4" target="_blank">Digital Ocean</a></small>
+    Powered by <a href="https://github.com/ma-tt/simple-p2p-speedtest" target="_blank">Simple P2P SpeedTest</a> and <a href="https://github.com/feross/webtorrent" target="_blank">WebTorrent</a><br>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/webtorrent/latest/webtorrent.min.js"></script>
